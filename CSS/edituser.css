@@ -1,0 +1,27 @@
+body
+{
+	font-family: bignoodletitling;
+	font-size: 15px;
+}
+form
+{
+width: 45%;
+margin: 50px auto;
+border-radius: 5px;
+padding: 20px;
+
+}
+.inputs
+{
+	display: block;
+	text-align: left;
+	margin: 3px;
+	height:30px;
+	width:93%;
+}
+.button
+{
+font-size: 15px;
+border-radius: 5px;
+ 
+}
